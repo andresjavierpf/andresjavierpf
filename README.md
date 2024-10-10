@@ -1,4 +1,4 @@
-# Hola, soy Andrés Javier:cuba: 👋
+# Hola, soy Andrés Javier 👋
 
 Ingeniero de software :man_technologist: con formación académica y profesional en la industria del desarrollo de software. Con más de 10 años de experiencia me gusta desempeñar un papel clave en el desarrollo de las soluciones para garantizar que mi trabajo se realice con la máxima calidad. Seguir aprendiendo es una de mis pasiones, así como descubrir nuevas tecnologías y metodologías que me ayuden a ser mejor profesional.
 
